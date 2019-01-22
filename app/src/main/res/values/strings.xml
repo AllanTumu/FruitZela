@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FruitZela</string>
+    <string name="fruitzela">FruitZela</string>
+    <string name="todo">TODO</string>
+    <string name="signup">SignUp</string>
+    <string name="signin">SignIn</string>
+    <string name="phonenumber">Phone Number</string>
+    <string name="hintnumber">0700764974</string>
+    <string name="name">Name</string>
+    <string name="username1">Allan Tumu</string>
+    <string name="Password">1234</string>
+</resources>

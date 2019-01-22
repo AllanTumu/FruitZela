@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1078478879289",
+    "firebase_url": "https://fruitzela.firebaseio.com",
+    "project_id": "fruitzela",
+    "storage_bucket": "fruitzela.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078478879289:android:75544d5838dc4234",
+        "android_client_info": {
+          "package_name": "com.example.mea.fruitzela"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078478879289-q6jlo9nhubgbb4231p35iaks5s99k6qk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mea.fruitzela",
+            "certificate_hash": "b8119f44ab24f4d7a2fa39e7e97381d2fb53af50"
+          }
+        },
+        {
+          "client_id": "1078478879289-olcarfm02g90ne14q57f5m328ug8esej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV1-OFSeFQKWrPsOMZzuMCXDURNQH9KYE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078478879289-olcarfm02g90ne14q57f5m328ug8esej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
