@@ -1,5 +1,6 @@
 package com.example.mea.fruitzela;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -29,6 +30,14 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
 
+            }
+        });
+
+        btnSignIn.setOnClickListener(new View.OnClickListener(){
+            @Override
+            public void onClick(View view) {
+                Intent signIn = new Intent(MainActivity.this, SignIn.class);
+                startActivity(signIn);
             }
         });
     }
